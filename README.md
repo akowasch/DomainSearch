@@ -41,27 +41,31 @@ connections to bad domains.
 
     python3 DomainSearchServer/Server.py -h
 
+![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSServer_1.png)
+
 ### Scanner
 
     python3 DomainSearchScanner/Scanner.py
+
+![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSScanner_1.png)
 
 ### Reviewer
 
     python3 DomainSearchScanner/Reviewer.py
 
+![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSReviewer.png)
+
 ### Viewer
 
     python3 DomainSearchViewer/Viewer.py
+
+![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSServer_1.png)
 
 ### ViewerGUI
 
     python3 DomainSearchViewer/ViewerGUI.py
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the issue guidelines and
-search for existing and closed issues. If your problem or idea is not addressed
-yet, please open a new issue. (Hof ansprechen)
+![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/GUI/1_Domains_.png)
 
 ## Creators
 
