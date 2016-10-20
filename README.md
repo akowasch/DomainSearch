@@ -59,8 +59,6 @@ connections to bad domains.
 
     python3 DomainSearchViewer/Viewer.py
 
-![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSServer_1.png)
-
 ### ViewerGUI
 
     python3 DomainSearchViewer/ViewerGUI.py
