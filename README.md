@@ -5,7 +5,7 @@ informations about a given domain. These Informations will later be used to
 evaluate the domain. Based on the evaluation a firewall for example can block
 connections to bad domains.
 
-It's part of my bachelor thesis and an based on a previous thesis from **Alexander Waldeck** (https://github.com/CatCookie/DomainSearch).
+It's part of my [bachelor thesis](http://andreas.kowasch.de/files/ak-bachelorarbeit.pdf) and an based on a previous thesis from **Alexander Waldeck** (https://github.com/CatCookie/DomainSearch).
 
 ## Table of contents
 
