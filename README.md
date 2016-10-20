@@ -1,6 +1,6 @@
 # DomainSearch
 
-DomainSearch is a intuitive and powerful analysis tool which collects
+DomainSearch is an intuitive and powerful analysis tool which collects
 informations about a given domain. These Informations will later be used to
 evaluate the domain. Based on the evaluation a firewall for example can block
 connections to bad domains.
