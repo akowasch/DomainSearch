@@ -43,19 +43,19 @@ It's part of my [bachelor thesis](http://andreas.kowasch.de/files/ak-bachelorarb
 
     python3 DomainSearchServer/Server.py -h
 
-![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSServer_1.png)
+![DomainSearch Server](images/Shell/DSServer_1.png)
 
 ### Scanner
 
     python3 DomainSearchScanner/Scanner.py
 
-![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSScanner_1.png)
+![DomainSearch Server](images/Shell/DSScanner_1.png)
 
 ### Reviewer
 
     python3 DomainSearchScanner/Reviewer.py
 
-![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/Shell/DSReviewer.png)
+![DomainSearch Server](images/Shell/DSReviewer.png)
 
 ### Viewer
 
@@ -65,7 +65,7 @@ It's part of my [bachelor thesis](http://andreas.kowasch.de/files/ak-bachelorarb
 
     python3 DomainSearchViewer/ViewerGUI.py
 
-![DomainSearch Server](http://github.kowasch.de/images/DomainSearch/GUI/1_Domains.png)
+![DomainSearch Server](images/GUI/1_Domains.png)
 
 ## Creators
 
